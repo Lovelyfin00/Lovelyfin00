@@ -21,10 +21,10 @@
 
 ### :woman_technologist: About Me :
 I'm Loveth Omokaro, a passionate Software Frontend Engineer with a strong focus on creating immersive, accessible and user-friendly web experiences. 
-- :telescope: I contribute to open source as a Software Fronetend Engineer and contribute to building acessible and visually pleasing frontend applications.
-- :seedling: I blog about my open source joruney and write articles on Hashnode about ReactJS, JavaScript and Frontend best principles
-- 🗺️: Outside of coding, I am an avid learner and enjoy exploring new technologies and industry trends. You can often find me attending tech meetups, contributing top open source, and staying active on platforms like GitHub, where I continuously work on personal projects to further expand my skill set.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/loveth-omokaro-4620b9122)
+- I contribute to open source as a Software Fronetend Engineer and contribute to building acessible and visually pleasing frontend applications.
+- I blog about my open source joruney and write articles on Hashnode about ReactJS, JavaScript and Frontend best principles
+- Outside of coding, I am an avid learner and enjoy exploring new technologies and industry trends. You can often find me attending tech meetups, contributing top open source, and staying active on platforms like GitHub, where I continuously work on personal projects to further expand my skill set.
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/loveth-omokaro-4620b9122)
 <hr/>
 
 ### :hammer_and_wrench: Languages and Tools :<div>
@@ -40,13 +40,19 @@ I'm Loveth Omokaro, a passionate Software Frontend Engineer with a strong focus 
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Boostrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/daevicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 <hr/>
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lovelyfin00&theme=light&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lovelyfin00&theme=light&background=FFFFFF)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lovelyfin00&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr/>
+
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
