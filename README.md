@@ -52,8 +52,8 @@ I'm Loveth Omokaro, a passionate Software Frontend Engineer with a strong focus 
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Bridging Gaps and Amplifying Diversity in Tech Event Talks](https://lovethomokaro.hashnode.dev/bridging-gaps-and-amplifying-diversity-in-tech-event-talks)
 - [Building a Simple Slider Component Using React: A Step-by-Step Guide](https://lovethomokaro.hashnode.dev/building-a-simple-slider-component-using-react-a-step-by-step-guide)
 - [Understanding useState in ReactJs](https://lovethomokaro.hashnode.dev/understanding-usestate-in-reactjs)
 - [Understanding React Props: How to Pass Data Between Components](https://lovethomokaro.hashnode.dev/understanding-react-props-how-to-pass-data-between-components)
-- [Final Project Progress Report](https://lovethomokaro.hashnode.dev/final-project-progress-report)
 <!-- BLOG-POST-LIST:END -->
