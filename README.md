@@ -18,13 +18,21 @@
 
 ### :woman_technologist: About Me :
 I'm Loveth Omokaro, a passionate Software Frontend Engineer with a strong focus on creating immersive, accessible and user-friendly web experiences. 
-- I contribute to open source as a Software Fronetend Engineer and love building acessible and visually pleasing frontend web applications.
-- I blog about my open source joruney and write articles on Hashnode about ReactJS, JavaScript and Frontend best principles
-- Outside of coding, I am an avid learner and enjoy exploring new technologies and industry trends. You can often find me attending tech meetups, contributing top open source, and staying active on platforms like GitHub, where I continuously work on personal projects to further expand my skill set.
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/loveth-omokaro-4620b9122)
+- I contribute to open source as a Software Frontend Engineer and love building accessible and visually pleasing frontend web applications.
+- I blog about my open source journey and write articles on Hashnode about ReactJS, JavaScript and frontend best principles.
+- Outside of coding, I am an avid learner and enjoy exploring new technologies and industry trends. You can often find me attending tech meetups, contributing to open source, and staying active on platforms like GitHub, where I continuously work on personal projects to further expand my skill set.
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Loveth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/loveth-omokaro-4620b9122)
 <hr/>
 
-### :hammer_and_wrench: Languages and Tools :<div>
+### :link: Projects :
+- **[Balancee](https://business.balancee.app)**: A web application that connects repair stations to customers, allowing customers to book repairs via location and Google Maps, see available stations and services, and book appointments. Repair stations can gain customers and receive daily sales reports.
+- **[Project Name 2](Project Link 2)**: Brief description of the project.
+- **[Project Name 3](Project Link 3)**: Brief description of the project.
+
+<hr/>
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -57,3 +65,4 @@ I'm Loveth Omokaro, a passionate Software Frontend Engineer with a strong focus 
 - [Understanding useState in ReactJs](https://lovethomokaro.hashnode.dev/understanding-usestate-in-reactjs)
 - [Understanding React Props: How to Pass Data Between Components](https://lovethomokaro.hashnode.dev/understanding-react-props-how-to-pass-data-between-components)
 <!-- BLOG-POST-LIST:END -->
+  
