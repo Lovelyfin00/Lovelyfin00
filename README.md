@@ -17,9 +17,9 @@
 <hr/>
 
 ### :woman_technologist: About Me :
-I'm Loveth Omokaro, a passionate Software Frontend Engineer with a strong focus on creating immersive, accessible and user-friendly web experiences. 
-- I contribute to open source as a Software Frontend Engineer and love building accessible and visually pleasing frontend web applications.
-- I blog about my open source journey and write articles on Hashnode about ReactJS, JavaScript and frontend best principles.
+I'm Loveth Omokaro, a passionate Software Engineer with a strong focus on creating immersive, accessible and user-friendly web experiences. 
+- I contribute to open source as a Software Engineer and love building accessible and visually pleasing web applications.
+- I blog about my open source journey and write articles on Hashnode about ReactJS, JavaScript, data science and frontend best principles.
 - Outside of coding, I am an avid learner and enjoy exploring new technologies and industry trends. You can often find me attending tech meetups, contributing to open source, and staying active on platforms like GitHub, where I continuously work on personal projects to further expand my skill set.
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Loveth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/loveth-omokaro-4620b9122)
 <hr/>
