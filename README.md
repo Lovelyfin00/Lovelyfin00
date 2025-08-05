@@ -24,6 +24,9 @@ I'm Loveth Omokaro, a passionate Software Engineer with a strong focus on creati
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Loveth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/loveth-omokaro-4620b9122)
 <hr/>
 
+### Certifications
+Here is a link to [all my certifications](https://drive.google.com/drive/folders/1x9lmEa-5-qSGZCJz2wDcWIw-si3TyNh1)
+
 ### :link: Work History and Projects :
 - **[Balancee Business](https://business.balancee.app)**: A web application that connects repair stations to customers, allowing customers to book repairs via location and Google Maps, see available stations and services, and book appointments. Repair stations can gain customers and receive daily sales reports.
 - **[Balancee Customer ](https://customer.balancee.app)**: This is the customer facing web application for Balancee. It involves an all in one dashbord where vehicle owners can see all their repair history and book repairs.
